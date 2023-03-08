@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: beige;
+}
+
+.header p {
+  margin: 30px 20px;
+}
+
+.header div {
+  margin: 30px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
